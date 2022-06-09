@@ -10,3 +10,13 @@
 <h6>OBS: Hoje eu pensei que eu poderia colocar tipos de pesquisa diferentes, tipo um que pega o primeiro site e copia tudo, para caso você quer um resumo ou o professor não liga muito, e outro tipo que pega a resposta rápida e se não conseguir pega os 2 primeiros paragrafos do primeiro ou segundo site, dependendo de alguns atributos.</h6>
 
 <h4>Agora que importamos os elementos do arquivo de texto, vamos usar a biblioteca webdriver, está biblioteca abrirá um navegador e apertará em determinados elementos.</h4>
+
+<h4>Ele fará as seguintes ordens:</h4>
+<li>Abrirá o navegador</li>
+<li>Abrirá o link do Google (https://www.google.com)</li>
+<li>No elemento de input pesquisa, ele vai inserir o termo que vamos pesquisar</li>
+<li>Apertará no pesquisar</li>
+<li>Quando carregar, pegará o texto do elemento de resposta rápido do Google</li>
+
+<h2>Fiz isso até agora, tive alguns problemas caso ele não encontrasse o elemento que eu quero, então não atualizei o código desde então...</h2>
+
