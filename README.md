@@ -8,3 +8,5 @@
 <h4>Neste documento de texto tentei colocar pesquisas mais variadas possíveis para que o programe funcione bem com diferentes modos.</h4>
 
 <h6>OBS: Hoje eu pensei que eu poderia colocar tipos de pesquisa diferentes, tipo um que pega o primeiro site e copia tudo, para caso você quer um resumo ou o professor não liga muito, e outro tipo que pega a resposta rápida e se não conseguir pega os 2 primeiros paragrafos do primeiro ou segundo site, dependendo de alguns atributos.</h6>
+
+<h4>Agora que importamos os elementos do arquivo de texto, vamos usar a biblioteca webdriver, está biblioteca abrirá um navegador e apertará em determinados elementos.</h4>
